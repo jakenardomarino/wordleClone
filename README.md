@@ -20,7 +20,7 @@ This installs necessary dependencies / packages
 This starts backend on http://localhost:8000/
 
 # Copy the path to your index.html file
-Copy path to this file and past it in your browser to see the game.
+Copy path to this file and paste it in your browser to see the game.
 
 # Credit
 Credit for support on coding portions belongs to Ania Kubow
